@@ -1,6 +1,6 @@
 # Sudoku Master 🦞💼
 
-这是一个基于规格驱动开发（Spec-driven Development）理念构建的数独求解 Web 应用。项目最初由姜大人提供核心算法，并由龙管家（OpenClaw）配合 OpenSpec 与 OpenCode 自动化重构而成。
+这是一个基于规格驱动开发（Spec-driven Development）理念构建的数独求解 Web 应用。项目最初由主人提供核心算法，并由龙管家（OpenClaw）配合 OpenSpec 与 OpenCode 自动化重构而成。
 
 ## 🌟 项目亮点
 
